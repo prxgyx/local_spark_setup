@@ -49,7 +49,7 @@ Visual Studio Code will start the docker containers, open a Visual Studio Code i
 
 ![Devcontainer Start](./assets/gifs/devcontainer.GIF)
 
-Your Spark development environment is ready, go to the post at [How to quickly set up a local Spark development environment?](https://www.startdataengineering.com/post/data-modeling-join-groupby/) for details on how to use this environment.
+Your Spark development environment is ready, go to the post at [How to quickly set up a local Spark development environment?](https://www.startdataengineering.com/post/spark-local-setup/) for details on how to use this environment.
 
 ### CodeSpaces
 
